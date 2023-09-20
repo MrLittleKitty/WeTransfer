@@ -11,7 +11,7 @@ I am going to use bullet points to outline my approach. They are given below:
 * Chose to handle the parsing/formatting of the request/response objects inside index.ts due to their simplicity
 * Created types for the Request/Response schemas to prove that I know how to use Typescript over Javascript ;)
 * Didn't explicitly type every single const declaration on purpose, some of them (like the json parser from the library) have long types that don't add useful information
-  * Sometimes it improves readability to spell out the type of certain variables
+  * Sometimes it doesn't improve readability to spell out the type of certain variables
 * Used status codes for success and bad request
 
 
